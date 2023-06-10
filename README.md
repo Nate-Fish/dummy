@@ -7,6 +7,7 @@ they lose all of their coins.
 <p align="center">
     <img width="241" alt="Screenshot 2023-06-09 at 10 36 23 PM" src="https://github.com/Nate-Fish/dummy/assets/77850450/95132c3a-7a3b-4fd6-904e-84f48b52d9da">
 </p>
+
 ## Features and Topics from the course
 - Transformations
     - We used transformations by translating and rotating the players position and other objects around world space.
