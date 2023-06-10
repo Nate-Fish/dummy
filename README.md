@@ -5,7 +5,7 @@ Minecraft Floor is Lava is our project that takes heavy inspiration from the chi
 they lose all of their coins.
 
 <p align="center">
-    <img width="241" alt="Screenshot 2023-06-09 at 10 36 23 PM" src="https://github.com/Nate-Fish/dummy/assets/77850450/95132c3a-7a3b-4fd6-904e-84f48b52d9da">
+   <img width="243" alt="Screenshot 2023-06-09 at 11 03 42 PM" src="https://github.com/Nate-Fish/dummy/assets/77850450/089f7276-f7a0-4aba-a304-1d8e6f3c73a4">
 </p>
 
 ## Features and Topics from the course
